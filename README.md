@@ -1,4 +1,4 @@
-# SOC Analysis — Task 2
+# FUTURE_CS_02 - Security Alert Monitoring & Incident Response
 
 This repository documents a cybersecurity intern-led SOC analysis performed on sample log data using **Elastic Stack (Kibana, Elasticsearch, Logstash)**. The analysis focuses on **threat detection, incident response, and remediation**, aligned with OWASP Top 10.
 
