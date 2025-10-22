@@ -32,6 +32,9 @@ This repository documents a cybersecurity intern-led SOC analysis performed on s
 | 2025-07-03 05:45:14 | david   | 172.16.0.3    | malware detected | Trojan Detected         | High     |
 | 2025-07-03 07:45:14 | charlie | 172.16.0.3    | malware detected | Trojan Detected         | High     |
 | 2025-07-03 04:41:14 | alice   | 172.16.0.3    | malware detected | Spyware Alert           | Medium   |
+| 2025-07-03 07:18:14	| bob	    | 172.16.0.3    | login failed	   |    -	                   | Medium   |
+| 2025-07-03 05:27:14	| charlie | 198.51.100.42	| login failed     |  	-                    | Medium   |
+| 2025-07-03 08:31:14	| david	  | 10.0.0.5	    | connectionattempt|    -                    |	Low     |
 
 > ⚠️ These events were captured and verified from the Kibana Discover screenshots.
 
